@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Анна Быкова](https://up.htmlacademy.ru/htmlcss/31/user/1821431).
-* Наставник: [Ольга Дука](https://htmlacademy.ru/profile/id337127).
+* Наставник:[Ольга  Дука](https://htmlacademy.ru/profile/id337127).
+* 
 
 ---
 
